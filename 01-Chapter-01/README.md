@@ -81,10 +81,13 @@ This chapter lays the foundation for security: the **CIA Triad** (Confidentialit
 ## 5. Security Controls
 **Risk** 
 - the possibility or likelihood of a threat exploiting a vulnerability resulting in a loss.
+  
 **Threat**
 - any circumstance or event that has the potential to compromise confidentiality, integrity, or availability.
+  
 **Vulnerability**
-- weakness in the hardware, the software, the configuration, or even the users operating the system. 
+- weakness in the hardware, the software, the configuration, or even the users operating the system.
+  
 **security incident**
 - an adverse event or series of events that can negatively affect the confidentiality, integrity, or availability of an organization’s information technology (IT) systems and data.
    
@@ -155,5 +158,6 @@ This chapter lays the foundation for security: the **CIA Triad** (Confidentialit
 - Add diagrams in `01-Chapter-01/assets/` (CIA Triad).  
 - Add more end-of-chapter practice questions.  
 - Create a short **Cheat-Sheet** for Chapter 1 in `Cheat-Sheets/Chapter-01.md`.
+
 
 
